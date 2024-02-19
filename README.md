@@ -1,4 +1,4 @@
-# ICP REACT TEMPLATE
+# ICP REACT TEMPLATE (ICP HUB)
 
 Event Attendance Tracker is a decentralized application (dApp) built on the Internet Computer Protocol (ICP) blockchain network. It allows event organizers to manage attendee registration and track physical attendance using dynamic QR codes.
 
